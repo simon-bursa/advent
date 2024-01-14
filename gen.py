@@ -47,7 +47,7 @@ data = """<!DOCTYPE html>
 
         <section>
             <h2>Obrázek:</h2>
-            <img src="./src/{}.jpg">img<img>
+            <img src="./src/{}.jpg"><img>
         </section>
     </article>
 </body>
