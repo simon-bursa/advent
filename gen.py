@@ -41,13 +41,11 @@ data = """<!DOCTYPE html>
     </nav>
     
     <article>
-        <section>
-            <h2>{}. den</h2>
-        </section>
+        <h2>{}. den</h2>
 
         <section>
             <h2>Obrázek:</h2>
-            <img src="./src/{}.jpg"><img>
+            <img src="./src/{}.jpg" alt="">
         </section>
     </article>
 </body>
